@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Virus</string>
+    <string name="name">Corona</string>
+    <!-- Page d'accueil-->
+    <string name="home_page_title">A decouvrir</string>
+    <string name="home_page_description"> description du covid </string>
+    <string name="home_page_utility"> Le Covid-19 est une maladie respiratoire pouvant être mortelle chez les patients fragilisés par l\'âge ou une autre maladie chronique. Elle se transmet par contact rapproché avec des personnes infectées. La maladie pourrait aussi être transmise par des patients asymptomatiques mais les données scientifiques manquent pour en attester avec certitude</string>
+    <string name="home_page_confirm_button"> Commencer </string>
+
+    <!-- Page du menu-->
+    <string name="menu_page_description_button"> description du test covid </string>
+    <string name="menu_page_utility">  Il est important d\'avoir des tests  de meilleure qualité, faciles à utiliser, fiables et rapides , afin de pouvoir savoir les patients atteints de la Covid-19 et de pouvoir retrouver pour les contacts  </string>
+    <string name="menu_page_test_button"> Test </string>
+
+    <!-- page d'ajout des profils-->
+    <string name="add_profil_page_name_upload_button">charger une image</string>
+    <string name="add_profil_page_title">ajout d\'utilisateur</string>
+    <string name="add_profil_page_name_input"> Vueillez saisir votre nom</string>
+    <string name="add_profil_page_lastname_input"> Vueillez saisir votre Prenom </string>
+    <string name="add_profil_page_adresse_input"> Vueillez saisir votre adresse</string>
+    <string name="add_profil_page_contact_input"> Vueillez saisir votre numero </string>
+    <string name="add_profil_page_mail_input"> Vueillez saisir votre mail</string>
+    <string name="add_profil_page_confirm_button"> confirmer </string>
+
+    <!--  questionnaire-->
+    <string name="question1_boutton"> Suivant </string>
+    <string name="question2_boutton"> Suivant </string>
+    <string name="question3_boutton"> Validé </string>
+    <string name="question1"> Question 1 </string>
+    <string name="question_1"> Toussez vous réguliérement ? </string>
+    <string name="question2"> Question 2 </string>
+    <string name="question_2"> Avez-vous de la fiévre ? </string>
+    <string name="question3"> Question 3 </string>
+    <string name="question_3"> Quelle est votre température des 3 derniers jours ?  </string>
+    <!-- RadioBoutton page des questionnaires-->
+    <string name="question_page_1_radios_oui"> Oui </string>
+    <string name="question_page_1_radios_non"> Non </string>
+    <!--  boutton debut-->
+    <string name="bouton_debut"> debut </string>
+</resources>
